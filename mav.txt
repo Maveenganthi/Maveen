@@ -1,1 +1,6 @@
-hello
+git clone url(from code in git hub browser)
+add to local folder git (git add "file name.txt")
+cd is used change directory
+git status is check the status
+git commit -m "file name" is used to add staging area
+git push origin main to git hub browser
