@@ -12,3 +12,5 @@ git add . is used add all to staging area
 git branch is used to check the name of the file
 to change name git branch -M name 
 git remote add origin url from the created repostary from the browser
+q press to exit from the git diff
+to merge main and another branch git merge branchnmae
