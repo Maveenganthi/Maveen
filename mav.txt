@@ -6,3 +6,9 @@ git commit -m "file name" is used to add staging area
 git push origin main to git hub browser
 git pull is used get any update from the git hub browser
 cd .. is used change to preivous folder
+dont give file name with space
+git init is used intialize a empty repostry
+git add . is used add all to staging area
+git branch is used to check the name of the file
+to change name git branch -M name 
+git remote add origin url from the created repostary from the browser
